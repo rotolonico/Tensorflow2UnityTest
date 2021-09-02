@@ -1,0 +1,7 @@
+numpy
+tensorflow
+keras
+pillow
+keras2onnx
+onnxruntime
+h5py
